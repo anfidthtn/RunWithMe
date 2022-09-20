@@ -1,7 +1,3 @@
-<div align="left">
-<img width="200" src="https://lab.ssafy.com/s07-webmobile4-sub2/S07P12D101/uploads/0a9e04f048a227e4d11bb069518f5ad4/rwm_logo_white.jpg">
-</div>
-<br/>
 
 ## 🏃🏻‍♂️ RunWithMe?
 
