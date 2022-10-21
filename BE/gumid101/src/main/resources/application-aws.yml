@@ -1,8 +1,8 @@
 cloud:
   aws:
     credentials:
-      accessKey: "AKIAZWADO6PW37AMLVOB"
-      secretKey: "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"
+      accessKey: DELETED
+      secretKey: DELETED
     s3:
       bucket: "runwithme-buket"
     region:
